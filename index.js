@@ -51,3 +51,4 @@ app.use("/api/categories", categoryRoute);
 app.listen("3003", () => {
   console.log("Backend is running.");
 });
+//
